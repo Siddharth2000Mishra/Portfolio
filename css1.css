@@ -1,0 +1,136 @@
+body{
+	/*background-image: url("Img/Webback1.jpeg");*/
+	background-position: center;
+	/*background-color:  #B5651D;*/
+	/*background-color: #34c0eb;
+	/*background-color: #32a89b;*/
+	background-image: -webkit-linear-gradient(to right ,#f4a460 ,#40e0d0,#9e9e9e );
+    background-image: linear-gradient(to right ,#f4a460 ,#40e0d0,#9e9e9e );
+	background-image: url("Img/web3.jpg");
+	
+	}
+h1{ 
+	font-variant: small-caps;
+	font-family: "Special Elite","satisfy","Goudy Bookletter 1911";
+    line-height: 75px;
+    font-size: 530%;
+    color: #000000;
+    text-align: center;
+}
+
+.ad{
+	display: inline-block;
+	color: #000000;
+	font-size: 21px;
+	height: 150px;
+	font-family: "Times New Roman";
+	}
+
+span{
+	display: block;
+}
+
+.con{
+	display: inline-block;
+	float: left;
+	border: 1px none #000000;
+	width:6.5%; 
+	height: 258px;
+
+}
+.adi{
+	display: inline-block;
+	float: left;
+	border: 1px none #000000;
+	padding-top: 30px;
+	height: 228px;
+	width: 93%;
+}
+.navi{
+	
+	clear: both;
+}
+.navi > hr{
+	border: 3px solid #3f51b5;
+	border-radius: 2px;
+	width: 90%;
+}
+.navigation{
+	border: 1px solid #FFFFFF;
+	height: 50px;
+    height: 100%;
+	background-color: #000000;
+	border-radius: 10px;
+
+}
+.navigation>a{
+	font-size: 175%;
+	font-family: "Risque","Comic Sans MS";
+	margin: 5%;
+	
+	}
+
+
+
+a{
+	color: #9e9e9e;
+}
+a>abbr{
+	text-decoration: none;
+}
+
+h2{
+	font-size: 50px;
+	font-variant-caps: small-caps;
+	text-align: center;
+	font-family: "Risque","Comic Sans MS";
+	
+}
+p.obj{
+	text-align: center;
+	font-size: 125%
+}
+.d1{
+	display: inline-block;
+	width: 20%;
+	float: left;
+	
+	padding-left: 120px;
+	border: 1px none ;
+	clear: both;
+	font-size: 150%;
+
+}
+.d2{
+	display: inline-block;
+	width: 55%;
+	border: 1px none;
+	clear: both;
+	font-size: 125%;
+
+}
+
+.d3>ul{
+	list-style-type: none;
+	text-align: center;
+	font-size: 125%;
+}
+.h1>hr{
+	clear: both;
+	border: 3px solid #3f51b5;
+	border-radius: 2px;
+	width: 90%;
+}
+footer{
+	background-color: #000000; 
+	color: #FFFFFF;
+	text-align: center;
+	width: 30%;
+	border-radius: 7px;
+	margin-left: 37%;
+
+}
+.pro{
+	background-color: #a52a2a;
+	border-radius: 2px;
+}
